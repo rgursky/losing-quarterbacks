@@ -5,7 +5,25 @@ class qb:
         self.losses = 0
         self.ties = 0
         self.pct = 0.000
-        self.exceptions = ["Ken Anderson"]
+        # another nfl player has the same name as this qb and so we need to use a differtent shortname
+        self.exceptions02 = ["Ken Anderson", "Cam Newton", "Joe Burrow"]
+
+        # some players didn't have stats listed on the website so manual searching of QB records had to be performed
+        self.manualRecords = dict([
+            ("Bart Starr", "94-57-6"),
+            ("Joe Namath", "62-63-4"),
+            ("Len Dawson", "94-57-8"),
+            ("Johnny Unitas", "118-63-4"),
+            ("Roger Staubach", "85-29-0"),
+            ("Bob Griese", "92-56-3"),
+            ("Doug Williams", "38-42-1"),
+            ("Daryle Lamonica", "66-16-6"),
+            ("Earl Morrall", "63-36-3"),
+            ("Joe Kapp", "24-21-3"),
+            ("Craig Morton", "81-62-1"),
+            ("Billy Kilmer", "61-52-1"),
+            ("Fran Tarkenton", "124-109-6"),
+        ])
     
     def getShortName(self):
         last = self.name.split()[1].lower()
@@ -21,7 +39,7 @@ class qb:
             shortFirst = first
 
         res = first + '-' + last + '-' + shortLast + shortFirst + '01'
-        if self.name in self.exceptions:
+        if self.name in self.exceptions02:
             res = first + '-' + last + '-' + shortLast + shortFirst + '02'
         return res
     
