@@ -8,7 +8,6 @@ const bodyParser = require("body-parser");
 const server = express();
 
 server.use(cors({ origin: true, credentials: true }));
-// server.use(express.json({ extended: false }));
 server.use(bodyParser.json());
 server.use(bodyParser.urlencoded({ extended: true }));
 server.use("/api/qbs", routes);

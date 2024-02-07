@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
 });
 
 
-// @route GET api/qbs/:losers
+// @route GET api/qbs/losers
 // @desc Get all qbs with losing record that lost sb
 // @access Public
 router.get('/losers', async (req, res) => {
@@ -45,7 +45,7 @@ router.get('/losers', async (req, res) => {
     }
 });
 
-// @route GET api/qbs/:winners
+// @route GET api/qbs/winners
 // @desc Get all qbs with winning record that won sb
 // @access Public
 router.get('/winners', async (req, res) => {
@@ -69,6 +69,20 @@ router.get('/winners', async (req, res) => {
     } catch(err) {
         console.error(err);
         res.status(500).send("Internal server error");
+    }
+});
+
+// @route GET api/qbs/:Name
+// @desc Get qb with specified name
+// @access Public
+router.get('/:Name', (req, res) => {
+    try {
+        let name = req.params.Name;
+        const result = QB.find({ Name : name});
+        res.json(result);
+    } catch(err) {
+        console.error(err);
+        res.status(500).send("Internal server error");1
     }
 });
 

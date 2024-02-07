@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 const QBSchema = new mongoose.Schema({
     "_id": {
-        type: String //mongoose.Schema.Types.ObjectId
+        type: String
     },
     "Name": {
         type: String,

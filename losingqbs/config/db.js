@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const db = 
-  "your_connection_string";
+  "your_connection_string_here";
 
 mongoose.set("strictQuery", true, "useNewUrlParser", true);
 
