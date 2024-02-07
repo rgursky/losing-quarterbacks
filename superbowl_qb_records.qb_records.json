@@ -1,0 +1,594 @@
+[{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2a9d"
+  },
+  "Name": "Bart Starr",
+  "W-L-T": "94-57-6",
+  "Percentage": "0.618",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2a9e"
+  },
+  "Name": "Joe Namath",
+  "W-L-T": "62-63-4",
+  "Percentage": "0.496",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2a9f"
+  },
+  "Name": "Len Dawson",
+  "W-L-T": "94-57-8",
+  "Percentage": "0.616",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa0"
+  },
+  "Name": "Johnny Unitas",
+  "W-L-T": "118-63-4",
+  "Percentage": "0.649",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa1"
+  },
+  "Name": "Roger Staubach",
+  "W-L-T": "85-29-0",
+  "Percentage": "0.746",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa2"
+  },
+  "Name": "Bob Griese",
+  "W-L-T": "92-56-3",
+  "Percentage": "0.619",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa3"
+  },
+  "Name": "Terry Bradshaw",
+  "W-L-T": "121-56-0",
+  "Percentage": "0.684",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa4"
+  },
+  "Name": "Ken Stabler",
+  "W-L-T": "103-54-1",
+  "Percentage": "0.655",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa5"
+  },
+  "Name": "Jim Plunkett",
+  "W-L-T": "80-74-0",
+  "Percentage": "0.519",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa6"
+  },
+  "Name": "Joe Montana",
+  "W-L-T": "133-54-0",
+  "Percentage": "0.711",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa7"
+  },
+  "Name": "Joe Theismann",
+  "W-L-T": "83-49-0",
+  "Percentage": "0.629",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa8"
+  },
+  "Name": "Jim McMahon",
+  "W-L-T": "70-33-0",
+  "Percentage": "0.680",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aa9"
+  },
+  "Name": "Phil Simms",
+  "W-L-T": "101-68-0",
+  "Percentage": "0.598",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aaa"
+  },
+  "Name": "Doug Williams",
+  "W-L-T": "38-42-1",
+  "Percentage": "0.475",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aab"
+  },
+  "Name": "Jeff Hostetler",
+  "W-L-T": "55-33-0",
+  "Percentage": "0.625",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aac"
+  },
+  "Name": "Mark Rypien",
+  "W-L-T": "52-33-0",
+  "Percentage": "0.612",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aad"
+  },
+  "Name": "Troy Aikman",
+  "W-L-T": "105-75-0",
+  "Percentage": "0.583",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aae"
+  },
+  "Name": "Steve Young",
+  "W-L-T": "102-55-0",
+  "Percentage": "0.650",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aaf"
+  },
+  "Name": "Brett Favre",
+  "W-L-T": "199-123-0",
+  "Percentage": "0.618",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab0"
+  },
+  "Name": "John Elway",
+  "W-L-T": "162-89-1",
+  "Percentage": "0.645",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab1"
+  },
+  "Name": "Kurt Warner",
+  "W-L-T": "76-53-0",
+  "Percentage": "0.589",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab2"
+  },
+  "Name": "Trent Dilfer",
+  "W-L-T": "63-56-0",
+  "Percentage": "0.529",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab3"
+  },
+  "Name": "Tom Brady",
+  "W-L-T": "286-95-0",
+  "Percentage": "0.751",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab4"
+  },
+  "Name": "Brad Johnson",
+  "W-L-T": "76-56-0",
+  "Percentage": "0.576",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab5"
+  },
+  "Name": "Ben Roethlisberger",
+  "W-L-T": "178-91-1",
+  "Percentage": "0.661",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab6"
+  },
+  "Name": "Peyton Manning",
+  "W-L-T": "200-92-0",
+  "Percentage": "0.685",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab7"
+  },
+  "Name": "Eli Manning",
+  "W-L-T": "125-121-0",
+  "Percentage": "0.508",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab8"
+  },
+  "Name": "Drew Brees",
+  "W-L-T": "181-123-0",
+  "Percentage": "0.595",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ab9"
+  },
+  "Name": "Aaron Rodgers",
+  "W-L-T": "159-85-1",
+  "Percentage": "0.651",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aba"
+  },
+  "Name": "Joe Flacco",
+  "W-L-T": "113-88-0",
+  "Percentage": "0.562",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2abb"
+  },
+  "Name": "Russell Wilson",
+  "W-L-T": "124-79-1",
+  "Percentage": "0.610",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2abc"
+  },
+  "Name": "Nick Foles",
+  "W-L-T": "33-31-0",
+  "Percentage": "0.516",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2abd"
+  },
+  "Name": "Patrick Mahomes",
+  "W-L-T": "88-25-0",
+  "Percentage": "0.779",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2abe"
+  },
+  "Name": "Matthew Stafford",
+  "W-L-T": "102-111-1",
+  "Percentage": "0.479",
+  "Won_Lost_Superbowl": "Won"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2abf"
+  },
+  "Name": "Daryle Lamonica",
+  "W-L-T": "66-16-6",
+  "Percentage": "0.784",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac0"
+  },
+  "Name": "Earl Morrall",
+  "W-L-T": "63-36-3",
+  "Percentage": "0.632",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac1"
+  },
+  "Name": "Joe Kapp",
+  "W-L-T": "24-21-3",
+  "Percentage": "0.531",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac2"
+  },
+  "Name": "Craig Morton",
+  "W-L-T": "81-62-1",
+  "Percentage": "0.566",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac3"
+  },
+  "Name": "Billy Kilmer",
+  "W-L-T": "61-52-1",
+  "Percentage": "0.539",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac4"
+  },
+  "Name": "Fran Tarkenton",
+  "W-L-T": "124-109-6",
+  "Percentage": "0.531",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac5"
+  },
+  "Name": "Vince Ferragamo",
+  "W-L-T": "30-29-0",
+  "Percentage": "0.508",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac6"
+  },
+  "Name": "Ron Jaworski",
+  "W-L-T": "77-73-1",
+  "Percentage": "0.513",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac7"
+  },
+  "Name": "Ken Anderson",
+  "W-L-T": "93-85-0",
+  "Percentage": "0.522",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac8"
+  },
+  "Name": "David Woodley",
+  "W-L-T": "37-20-1",
+  "Percentage": "0.647",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ac9"
+  },
+  "Name": "Dan Marino",
+  "W-L-T": "155-103-0",
+  "Percentage": "0.601",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2aca"
+  },
+  "Name": "Tony Eason",
+  "W-L-T": "31-25-0",
+  "Percentage": "0.554",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2acb"
+  },
+  "Name": "Boomer Esiason",
+  "W-L-T": "83-95-0",
+  "Percentage": "0.466",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2acc"
+  },
+  "Name": "Jim Kelly",
+  "W-L-T": "110-67-0",
+  "Percentage": "0.621",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2acd"
+  },
+  "Name": "Stan Humphries",
+  "W-L-T": "53-34-0",
+  "Percentage": "0.609",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ace"
+  },
+  "Name": "Neil ODonnell",
+  "W-L-T": "58-49-0",
+  "Percentage": "0.542",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2acf"
+  },
+  "Name": "Drew Bledsoe",
+  "W-L-T": "101-98-0",
+  "Percentage": "0.508",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad0"
+  },
+  "Name": "Chris Chandler",
+  "W-L-T": "69-86-0",
+  "Percentage": "0.445",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad1"
+  },
+  "Name": "Steve McNair",
+  "W-L-T": "96-67-0",
+  "Percentage": "0.589",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad2"
+  },
+  "Name": "Kerry Collins",
+  "W-L-T": "84-103-0",
+  "Percentage": "0.449",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad3"
+  },
+  "Name": "Rich Gannon",
+  "W-L-T": "80-59-0",
+  "Percentage": "0.576",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad4"
+  },
+  "Name": "Jake Delhomme",
+  "W-L-T": "61-43-0",
+  "Percentage": "0.587",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad5"
+  },
+  "Name": "Donovan McNabb",
+  "W-L-T": "107-69-1",
+  "Percentage": "0.607",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad6"
+  },
+  "Name": "Matt Hasselbeck",
+  "W-L-T": "90-81-0",
+  "Percentage": "0.526",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad7"
+  },
+  "Name": "Rex Grossman",
+  "W-L-T": "27-24-0",
+  "Percentage": "0.529",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad8"
+  },
+  "Name": "Colin Kaepernick",
+  "W-L-T": "32-32-0",
+  "Percentage": "0.500",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ad9"
+  },
+  "Name": "Cam Newton",
+  "W-L-T": "78-72-1",
+  "Percentage": "0.520",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ada"
+  },
+  "Name": "Matt Ryan",
+  "W-L-T": "128-115-1",
+  "Percentage": "0.527",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2adb"
+  },
+  "Name": "Jared Goff",
+  "W-L-T": "70-54-1",
+  "Percentage": "0.564",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2adc"
+  },
+  "Name": "Jimmy Garoppolo",
+  "W-L-T": "47-22-0",
+  "Percentage": "0.681",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2add"
+  },
+  "Name": "Joe Burrow",
+  "W-L-T": "34-24-1",
+  "Percentage": "0.585",
+  "Won_Lost_Superbowl": "Lost"
+},
+{
+  "_id": {
+    "$oid": "65bbf7cc9c1153733f8f2ade"
+  },
+  "Name": "Jalen Hurts",
+  "W-L-T": "36-20-0",
+  "Percentage": "0.643",
+  "Won_Lost_Superbowl": "Lost"
+}]
